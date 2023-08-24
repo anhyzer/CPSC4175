@@ -1,0 +1,14 @@
+The data point cardio indicates a cardiovascular disease.
+
+There is data that will be missing, we will need to work around that.
+Each data group may have a different set of provided data types.
+
+The data we have is the data we have. We need to split the data into training and testing.
+We will not be given more data. Sponsor suggests random tree, or similarly advanced algorithms.
+
+Dr Zhou adds that there is not a specific algorithm that we are required to use.
+It is up to how we want to get this done.
+Also he was supposed to provide the data type's definitions but he accidentally set them as the wrong link.
+
+Specific Requirements: We eventually need to be able to present what ML algorithm and model we used and the prediciton accuracy in a spreadsheet.
+No required accuracy, just try our best. (I pointed out that 4K data sets aren't really a whole lot for ML purposes.
